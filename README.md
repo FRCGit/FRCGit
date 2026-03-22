@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m FRCGit
 
-<!--
-**FRCGit/FRCGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> FRC robotics • software • controls • automation
 
-Here are some ideas to get you started:
+## Current Projects
+- [Project 1](https://github.com/FRCGit/PROJECT1) — one-line description
+- [Project 2](https://github.com/FRCGit/PROJECT2) — one-line description
+- [Project 3](https://github.com/FRCGit/PROJECT3) — one-line description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tooling / Tech
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![WPILib](https://img.shields.io/badge/WPILib-robotics-2b6cb0?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+## Highlights
+- ✅ Built: <thing you built>
+- 🛠️ Working on: <thing you’re working on>
+- 🎯 Learning: <thing you’re learning>
+
+## Links
+- The Blue Alliance: <link>
+- Team: <link>
+- Other: <link>
